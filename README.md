@@ -27,7 +27,7 @@ I bridge the gap between **healthcare operations** and **data analytics**. My un
 ## Featured Projects
 
 ### 🏪 Pharmacy Inventory & Sales Analysis
-[View Repository](https://github.com/ebubendukwu-eng/pharmacy-inventory-sales-analysis)
+[View Repository](../Pharmacy-Inventory-Sales-Analysis)
 Sales trend analysis, inventory forecasting, and profitability dashboards using Power BI and Excel.
 
 *More projects coming soon!*
@@ -45,7 +45,7 @@ Sales trend analysis, inventory forecasting, and profitability dashboards using 
 
 ## Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/ebube-ndukwu-pharmacy-analytics](https://linkedin.com/in/ebube-ndukwu-pharmacy-analytics)
+- 💼 LinkedIn: linkedin.com/in/ebube-ndukwu-pharmacy-analytics
 - 📧 Email: ebubendukwu@gmail.com
 - 🇳🇬 Location: Lagos, Nigeria
 
